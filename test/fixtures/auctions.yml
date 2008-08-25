@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  starting_bid: 1
+  title: MyString
+  reserve: 1
+  start_date: 2008-08-24 22:32:06
+  end_date: 2008-08-24 22:32:06
+
+two:
+  starting_bid: 1
+  title: MyString
+  reserve: 1
+  start_date: 2008-08-24 22:32:06
+  end_date: 2008-08-24 22:32:06
